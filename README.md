@@ -2,6 +2,7 @@
 
 These are books considered most influential for programmers from this [StackOverflow thread](1).
 
+Click on `books.md` file or [go to list of the books](https://github.com/chhantyal/influential-programming-books/blob/master/books.md)
 
 ## Why on Github?
 
@@ -13,7 +14,7 @@ So, the list is preserved here :)
 
 [1]: http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 
-## Contribue ♥ ♥ ♥
+## Contribute ♥ ♥ ♥
 
 Any book which is significantly influential can be added or one which seems not so can be removed. I have tried to put official book site, link to electronic version, and finally Amazon page if both don't exist. Please add an issue in case links are not working or are not official. 
 
