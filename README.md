@@ -13,8 +13,19 @@ So, the list is preserved here :)
 
 [1]: http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 
-## Contribution
+## Contribue ♥ ♥ ♥
 
-Any book which is significantly influential can be added. Any contribution is under Creative Commons Attribution 3.0 Unported License.
+Any book which is significantly influential can be added or one which seems not so can be removed. I have tried to put official book site, link to electronic version, and finally Amazon page if both don't exist. Please add an issue in case links are not working or are not official. 
+
+User contribution is under Creative Commons Attribution 3.0 Unported License.
 
 Feel free to send PR :)
+
+
+## Original thread
+
+What is the single most influential book every programmer should read?
+
+If you could go back in time and tell yourself to read a specific book at the beginning of your career as a developer, which book would it be?
+
+I expect this list to be varied and to cover a wide range of things.
