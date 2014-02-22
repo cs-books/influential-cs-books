@@ -1,6 +1,6 @@
 # Most influential books for programmers
 
-These are books considered most influential for programmers from this [StackOverflow thread](1).
+These are books considered most influential for programmers from this [StackOverflow thread](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read).
 
 Click on `books.md` file or [go to list of the books](https://github.com/chhantyal/influential-programming-books/blob/master/books.md)
 
@@ -12,7 +12,6 @@ Long answer: I frequently visit above thread. Over the time, such an active thre
 
 So, the list is preserved here :)
 
-[1]: http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 
 ## Contribute ♥ ♥ ♥
 
