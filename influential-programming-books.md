@@ -1,8 +1,8 @@
-## Books
+## Influential Books List
 
 1. [Code Complete (2nd edition)](http://cc2e.com/) by Steve McConnell
 2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) by Andrew Hunt and David Thomas
-3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) by Gerald Jay Sussman and Hal Abelson (free ebook)
+3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) by Sussman and Abelson (free ebook)
 4. [The C Programming Language](http://cm.bell-labs.com/cm/cs/cbook/) by Brian Kernighan and Dennis Ritchie
 5. [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) by Cormen, Leiserson, Rivest & Stein
 6. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) by the Gang of Four
@@ -50,3 +50,40 @@
 48. [The Elements of Computing Systems](http://www.nand2tetris.org/) by Noam Nisan and Shimon Schocken(free ebook)
 49. [Refactoring to Patterns](http://industriallogic.com/xp/refactoring/) by Joshua Kerievsky
 50. [Modern Operating Systems](http://www.cs.vu.nl/~ast/books/mos2/) by Andrew S. Tanenbaum
+51. [The Annotated Turing](http://www.theannotatedturing.com/) by Charles Petzold
+52. [Things That Make Us Smart](http://www.jnd.org/books/things-that-make-us-smart-defending-human-attributes-in-the-age-of-the-machine.html) by Donald Norman
+53. [The Timeless Way of Building](http://www.amazon.com/The-Timeless-Building-Christopher-Alexander/dp/0195024028) by Christopher Alexander
+54. [The Deadline: A Novel About Project Management](http://tomdemarco.com/Books/deadline.html) by Tom DeMarco
+55. [The C++ Programming Language (3rd edition)](http://www.stroustrup.com/3rd.html) by Stroustrup
+56. [Computer Systems - A Programmer's Perspective](http://csapp.cs.cmu.edu/) by Bryant and O'Hallaron
+57. [Agile Principles, Patterns, and Practices in C#](http://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258) by Robert C. Martin
+58. [Growing Object-Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/) by Steve Freeman and Nat Pryce
+59. [Framework Design Guidelines](http://www.amazon.com/Framework-Design-Guidelines-Conventions-Libraries/dp/0321545613) by Brad Abrams
+60. [Object Thinking](http://www.microsoft.com/learning/en-us/book.aspx?ID=6820) by Dr. David West
+61. [Advanced Programming in the UNIX Environment](http://www.cs.stevens.edu/~jschauma/810D/) by W. Richard Stevens
+62. [Hackers and Painters: Big Ideas from the Computer Age](http://www.paulgraham.com/hackpaint.html) by Paul Graham
+63. [The Soul of a New Machine](http://www.tracykidder.com/books/soul/) by Tracy Kidder
+64. [CLR via C#](http://shop.oreilly.com/product/9780735627048.do) by Jeffrey Richter
+65. [Design Patterns in C#](http://www.amazon.com/Design-Patterns-C-Software/dp/0321718933) by Steve Metsker
+66. [Zen and the Art of Motorcycle Maintenance](http://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469) by Robert M. Pirsig
+67. [About Face - The Essentials of Interaction Design](http://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111) by Alan Cooper
+68. [Here Comes Everybody: The Power of Organizing Without Organizations](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/0143114948) by Clay Shirky
+69. [The Tao of Programming](http://www.canonical.org/~kragen/tao-of-programming.html) by Geoffrey James (free ebook)
+70. [Computational Beauty of Nature](https://mitpress.mit.edu/books/computational-beauty-nature) by Gary William Flake
+71. [Philip and Alex's Guide to Web Publishing](http://philip.greenspun.com/panda/) (free ebook)
+72. [Object-Oriented Analysis and Design with Applications](http://www.amazon.com/Object-Oriented-Analysis-Design-Applications-Edition/dp/020189551X) by Grady Booch
+73. [Computability](http://www.amazon.com/Computability-Introduction-Recursive-Function-Theory/dp/0521294657) by N. J. Cutland
+74. [Masterminds of Programming](http://www.amazon.com/Masterminds-Programming-Conversations-Creators-Languages/dp/0596515170) by Federico Biancuzzi
+75. [The Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html)
+76. [The Productive Programmer](http://nealford.com/books/productiveprogrammer) by Neil Ford
+77. [The Art of Deception](http://www.amazon.com/exec/obidos/tg/detail/-/0764569597) by Kevin Mitnick
+78. [The Career Programmer: Guerilla Tactics for an Imperfect World](http://www.christopherduncan.com/thecareerprogrammer.aspx) by Christopher Duncan
+79. [Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp](http://norvig.com/paip.html) by Peter Norvig (free ebook)
+80. [Masters of Doom](http://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) by David Kushner
+81. [Pragmatic Unit Testing in C# with NUnit](http://pragprog.com/book/utc2/pragmatic-unit-testing-in-c-with-nunit) by Andy Hunt and Dave Thomas
+82. [How To Solve It](https://notendur.hi.is/hei2/teaching/Polya_HowToSolveIt.pdf) by George Polya (free PDF)
+83. [Smalltalk-80: The Language and its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf) by Adele Goldberg 
+84. [Writing Secure Code (2nd Edition)](http://www.microsoft.com/learning/en-us/book.aspx?ID=5957) by Michael Howard
+85. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) by Richard Bird
+86. [No Bugs!](http://www.amazon.com/No-Bugs-Delivering-Error-Free/dp/0201608901) by David Thielen
+87. [JUnit in Action](http://www.manning.com/tahchiev/) by Petar Tahchiev
