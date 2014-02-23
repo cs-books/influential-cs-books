@@ -13,7 +13,7 @@ Long answer: I frequently visit above thread. Over the time, such an active thre
 So, the list is preserved here :)
 
 
-## Contribute ♥ ♥ ♥
+## Contribute ❤ ❤
 
 Any book which is significantly influential can be added or one which seems not so can be removed. I have tried to put official book site, link to electronic version, and finally Amazon page if both don't exist. Please add an issue in case links are not working or are not official. 
 
