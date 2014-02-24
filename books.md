@@ -29,7 +29,7 @@
 27. [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/) by Eric S. Raymond
 28. [Test-Driven Development: By Example](http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) by Kent Beck (free PDF)
 29. [Practices of an Agile Developer](http://pragprog.com/book/pad/practices-of-an-agile-developer) by Venkat Subramaniam and Andy Hunt
-30. [Don't Make Me Think](http://www.sensible.com/dmmt.html) by 
+30. [Don't Make Me Think](http://www.sensible.com/dmmt.html) by Steve Krug
 31. [Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert C. Martin
 32. [Domain Driven Designs](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
 33. [The Design of Everyday Things](http://www.jnd.org/books/the-design-of-everyday-things.html) by Donald Norman
