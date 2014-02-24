@@ -24,7 +24,7 @@
 22. [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html) by Martin Fowler
 23. [The Little Schemer](http://www.ccs.neu.edu/home/matthias/BTLS/) by Matthias Felleisen and Daniel P. Friedman
 24. [The Seasoned Schemer](http://www.ccs.neu.edu/home/matthias/BTSS/) by Matthias Felleisen and Daniel P. Friedman
-25. [Why's (Poignant) Guide to Ruby](http://www.rubyinside.com/media/poignant-guide.pdf) by by why the lucky stiff (free PDF)
+25. [Why's (Poignant) Guide to Ruby](http://www.rubyinside.com/media/poignant-guide.pdf) by why the lucky stiff (free PDF)
 26. [The Inmates Are Running The Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity](http://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140) by Alan Cooper
 27. [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/) by Eric S. Raymond
 28. [Test-Driven Development: By Example](http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) by Kent Beck (free PDF)
