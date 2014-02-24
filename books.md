@@ -87,3 +87,4 @@
 85. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) by Richard Bird
 86. [No Bugs!](http://www.amazon.com/No-Bugs-Delivering-Error-Free/dp/0201608901) by David Thielen
 87. [JUnit in Action](http://www.manning.com/tahchiev/) by Petar Tahchiev
+88. [Being Geek: The Software Developer's Career Handbook](http://beinggeek.com/) by Michael "Rands" Lopp
