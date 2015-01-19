@@ -2,8 +2,6 @@
 
 These are books considered most influential for programmers from this [StackOverflow thread](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read).
 
-Click on `books.md` file or [go to list of the books](https://github.com/chhantyal/influential-programming-books/blob/master/books.md)
-
 ## Why on Github?
 
 Cause SO is cathedral, Github is bazzar ;)
