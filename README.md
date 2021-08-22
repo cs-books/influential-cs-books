@@ -34,8 +34,8 @@ So, the list is preserved here :)
 20. [Surely You're Joking, Mr. Feynman!](http://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041) by Richard Feynman
 21. [Effective Java 2nd edition](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683) by Joshua Bloch
 22. [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html) by Martin Fowler
-23. [The Little Schemer](http://www.ccs.neu.edu/home/matthias/BTLS/) by Matthias Felleisen and Daniel P. Friedman
-24. [The Seasoned Schemer](http://www.ccs.neu.edu/home/matthias/BTSS/) by Matthias Felleisen and Daniel P. Friedman
+23. [The Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition) by Matthias Felleisen and Daniel P. Friedman
+24. [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer-second-edition) by Matthias Felleisen and Daniel P. Friedman
 25. [Why's (Poignant) Guide to Ruby](http://www.rubyinside.com/media/poignant-guide.pdf) by why the lucky stiff (free PDF)
 26. [The Inmates Are Running The Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity](http://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140) by Alan Cooper
 27. [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/) by Eric S. Raymond
