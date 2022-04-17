@@ -12,7 +12,7 @@ So, the list is preserved here :)
 
 ## Influential Books List
 
-1. [Code Complete (2nd edition)](http://cc2e.com/) by Steve McConnell
+1. [Code Complete (2nd edition)](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
 2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) by Andrew Hunt and David Thomas
 3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) by Sussman and Abelson (free ebook)
 4. [The C Programming Language](http://cm.bell-labs.com/cm/cs/cbook/) by Brian Kernighan and Dennis Ritchie
