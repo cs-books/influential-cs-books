@@ -15,7 +15,7 @@ So, the list is preserved here :)
 1. [Code Complete (2nd edition)](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
 2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) by Andrew Hunt and David Thomas
 3. [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) by Sussman and Abelson (free pdf)
-4. [The C Programming Language](http://cm.bell-labs.com/cm/cs/cbook/) by Brian Kernighan and Dennis Ritchie
+4. [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/) by Brian Kernighan and Dennis Ritchie
 5. [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) by Cormen, Leiserson, Rivest & Stein
 6. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) by the Gang of Four
 7. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) by Martin Fowler
