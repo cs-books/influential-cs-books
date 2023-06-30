@@ -10,8 +10,20 @@ These are books considered most influential for programmers from this [StackOver
    * [Influential Books List (by topic)](#influential-books-list-by-topic)
       * [Algorithms](#algorithms)
       * [Developer Best Practices](#developer-best-practices)
-      * [Language Specific](#language-specific)
-      * [Design and Refactoring]
+      * [Language/Environment Specific](#languageenvironment-specific)
+      * [Design and Refactoring](#design-and-refactoring)
+      * [Software Project Management](#software-project-management)
+      * [Scheme](#scheme)
+      * [History and Culture](#history-and-culture)
+      * [Driven Designs](#driven-designs)
+      * [UI/UX](#uiux)
+      * [Personal Development](#personal-development)
+      * [Experiance Transfer](#experiance-transfer)
+      * [JUnit](#junit)
+      * [Philosophy](#philosophy)
+      * [Web Applications and Publishing](#web-applications-and-publishing)
+      * [Singles/Uncategorized](#singlesuncategorized)
+
 <!--te-->
 
 
