@@ -138,8 +138,7 @@ I expect this list to be varied and to cover a wide range of things.
 4. [Modern Operating Systems](http://www.cs.vu.nl/~ast/books/mos2/) by Andrew S. Tanenbaum
 5. [Computer Systems - A Programmer's Perspective](http://csapp.cs.cmu.edu/) by Bryant and O'Hallaron
 6.  [Computability](http://www.amazon.com/Computability-Introduction-Recursive-Function-Theory/dp/0521294657) by N. J. Cutland
-7.  [CODE](http://www.charlespetzold.com/code/) by Charles Petzold
-8.  
+7.  [CODE](http://www.charlespetzold.com/code/) by Charles Petzold  
 
 ### Philosophy
 1. [Computational Beauty of Nature](https://mitpress.mit.edu/9780262561273/the-computational-beauty-of-nature/) by Gary William Flake
@@ -159,6 +158,6 @@ I expect this list to be varied and to cover a wide range of things.
 
 ### Singles/Uncategorized
 1. [Gödel, Escher, Bach](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) by Douglas Hofstadter 
-3. [Surely You're Joking, Mr. Feynman!](http://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041) by Richard Feynman
-5. [The Design of Everyday Things](https://a.co/d/7je9D2y) by Donald Norman
-24. [Writing Secure Code (2nd Edition)](https://a.co/d/gUYZptk) by Michael Howard
+2. [Surely You're Joking, Mr. Feynman!](http://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041) by Richard Feynman
+3. [The Design of Everyday Things](https://a.co/d/7je9D2y) by Donald Norman
+4. [Writing Secure Code (2nd Edition)](https://a.co/d/gUYZptk) by Michael Howard
