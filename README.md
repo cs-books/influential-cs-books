@@ -55,10 +55,10 @@ I expect this list to be varied and to cover a wide range of things.
 4. [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 5. [Practices of an Agile Developer](http://pragprog.com/book/pad/practices-of-an-agile-developer) by Venkat Subramaniam and Andy Hunt
 6. [The Practice of Programming](http://cm.bell-labs.com/cm/cs/tpop/) by Kernighan and Pike
-8. [Writing Solid Code](http://c2.com/cgi/wiki?WritingSolidCode) by Steve Maguire
-9. [Agile Principles, Patterns, and Practices in C#](http://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258) by Robert C. Martin
-10. [No Bugs!](http://www.amazon.com/No-Bugs-Delivering-Error-Free/dp/0201608901) by David Thielen
-11. [The Productive Programmer](http://nealford.com/books/productiveprogrammer) by Neil Ford
+7. [Writing Solid Code](http://c2.com/cgi/wiki?WritingSolidCode) by Steve Maguire
+8. [Agile Principles, Patterns, and Practices in C#](http://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258) by Robert C. Martin
+9. [No Bugs!](http://www.amazon.com/No-Bugs-Delivering-Error-Free/dp/0201608901) by David Thielen
+10. [The Productive Programmer](http://nealford.com/books/productiveprogrammer) by Neil Ford
     
 ### Language/Environment Specific
 1. [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/) by Brian Kernighan and Dennis Ritchie
