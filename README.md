@@ -99,7 +99,7 @@ I expect this list to be varied and to cover a wide range of things.
 ### Software Project Management
 1. [The Mythical Man Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) by Fred Brooks
 2. [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) by Demarco and Lister
-3. [Software Estimation: Demystifying the Black Art]([http://www.stevemcconnell.com/est.htm](https://www.oreilly.com/library/view/software-estimation-demystifying/0735605351/)) by Steve McConnel
+3. [Software Estimation: Demystifying the Black Art]([http://www.stevemcconnell.com/est.htm)(https://www.oreilly.com/library/view/software-estimation-demystifying/0735605351/)) by Steve McConnel
 4. [The Deadline: A Novel About Project Management](http://tomdemarco.com/Books/deadline.html) by Tom DeMarco
 5. [Here Comes Everybody: The Power of Organizing Without Organizations](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/0143114948) by Clay Shirky
 
