@@ -10,8 +10,8 @@ These are books considered most influential for programmers from this [StackOver
    * [Influential Books List (by topic)](#influential-books-list-by-topic)
       * [Algorithms](#algorithms)
       * [Design and Refactoring](#design-and-refactoring)
-      * [Driven Designs](#driven-designs)
       * [Developer Best Practices](#developer-best-practices)
+      * [Driven Designs](#driven-designs)
       * [Experiance Transfer](#experiance-transfer)
       * [History and Culture](#history-and-culture) 
       * [JUnit](#junit)
@@ -47,7 +47,22 @@ I expect this list to be varied and to cover a wide range of things.
 ### Algorithms
 1. [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) by Cormen, Leiserson, Rivest & Stein
 2. [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) by Donald Knuth
-
+---------------
+### Design and Refactoring
+1. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) by Richard Bird
+2. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) by the Gang of Four
+3. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) by Martin Fowler
+4. [Programming Pearls]([http://www.cs.bell-labs.com/cm/cs/pearls/](https://a.co/d/aCcO9SH)) by Jon Bentley
+5. [Working Effectively with Legacy Code](http://www.informit.com/store/working-effectively-with-legacy-code-9780131177055?aid=15d186bd-1678-45e9-8ad3-fe53713e811b) by Michael C. Feathers
+6. [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html) by Martin Fowler
+7. [Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert C. Martin
+8. [Object-Oriented Analysis and Design with Applications](http://www.amazon.com/Object-Oriented-Analysis-Design-Applications-Edition/dp/020189551X) by Grady Booch
+9. [Object Thinking](http://www.microsoft.com/learning/en-us/book.aspx?ID=6820) by Dr. David West
+10. [Growing Object-Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/) by Steve Freeman and Nat Pryce
+11. [Refactoring to Patterns](http://industriallogic.com/xp/refactoring/) by Joshua Kerievsky
+12. [About Face - The Essentials of Interaction Design](http://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111) by Alan Cooper
+13. [Framework Design Guidelines](http://www.amazon.com/Framework-Design-Guidelines-Conventions-Libraries/dp/0321545613) by Brad Abrams
+---------------
 ### Developer Best Practices
 1. [Code Complete (2nd edition)](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
 2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) by Andrew Hunt and David Thomas
@@ -59,7 +74,11 @@ I expect this list to be varied and to cover a wide range of things.
 8. [Agile Principles, Patterns, and Practices in C#](http://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258) by Robert C. Martin
 9. [No Bugs!](http://www.amazon.com/No-Bugs-Delivering-Error-Free/dp/0201608901) by David Thielen
 10. [The Productive Programmer](http://nealford.com/books/productiveprogrammer) by Neil Ford
-    
+------------
+### Driven Designs 
+1. [Test-Driven Development: By Example](http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) by Kent Beck (free PDF)
+2. [Domain Driven Designs](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
+
 ### Language/Environment Specific
 1. [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/) by Brian Kernighan and Dennis Ritchie
 2. [Computer Graphics: Principles and Practice in C (2nd Edition)](http://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0201848406) by Foley, Dam, Feiner, Hughes
@@ -77,22 +96,6 @@ I expect this list to be varied and to cover a wide range of things.
 14. [Smalltalk-80: The Language and its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf) by Adele Goldberg
 15. [Advanced Programming in the UNIX Environment](https://a.co/d/bQVYa5n) by W. Richard Stevens
 16. [Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp](https://github.com/norvig/paip-lisp) by Peter Norvig (free ebook)
-
-
-### Design and Refactoring
-1. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) by Richard Bird
-2. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) by the Gang of Four
-3. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) by Martin Fowler
-4. [Programming Pearls]([http://www.cs.bell-labs.com/cm/cs/pearls/](https://a.co/d/aCcO9SH)) by Jon Bentley
-5. [Working Effectively with Legacy Code](http://www.informit.com/store/working-effectively-with-legacy-code-9780131177055?aid=15d186bd-1678-45e9-8ad3-fe53713e811b) by Michael C. Feathers
-6. [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html) by Martin Fowler
-7. [Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert C. Martin
-8. [Object-Oriented Analysis and Design with Applications](http://www.amazon.com/Object-Oriented-Analysis-Design-Applications-Edition/dp/020189551X) by Grady Booch
-9. [Object Thinking](http://www.microsoft.com/learning/en-us/book.aspx?ID=6820) by Dr. David West
-10. [Growing Object-Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/) by Steve Freeman and Nat Pryce
-11. [Refactoring to Patterns](http://industriallogic.com/xp/refactoring/) by Joshua Kerievsky
-12. [About Face - The Essentials of Interaction Design](http://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111) by Alan Cooper
-13. [Framework Design Guidelines](http://www.amazon.com/Framework-Design-Guidelines-Conventions-Libraries/dp/0321545613) by Brad Abrams
  
 
 ### Software Project Management
@@ -118,9 +121,6 @@ I expect this list to be varied and to cover a wide range of things.
  
  
 
-### Driven Designs 
-1. [Test-Driven Development: By Example](http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) by Kent Beck (free PDF)
-2. [Domain Driven Designs](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
 
 
 ### UI/UX
