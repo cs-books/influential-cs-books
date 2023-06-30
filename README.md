@@ -126,6 +126,7 @@ I expect this list to be varied and to cover a wide range of things.
 1. [Coders at Work](http://www.codersatwork.com/) by Peter Seibel
 2. [The Career Programmer: Guerilla Tactics for an Imperfect World](https://www.barnesandnoble.com/w/career-programmer-christopher-duncan/1100626061) by Christopher Duncan
 3. [Masterminds of Programming](http://www.amazon.com/Masterminds-Programming-Conversations-Creators-Languages/dp/0596515170) by Federico Biancuzzi
+4.  [Best Software Writing I](http://joelonsoftware.com/articles/BestSoftwareWriting.html) by Joel Spolsky 
 
 ### JUnit 
 1. [JUnit in Action](http://www.manning.com/tahchiev/) by Petar Tahchiev
@@ -148,7 +149,8 @@ I expect this list to be varied and to cover a wide range of things.
 5. [The Tao of Programming](http://www.canonical.org/~kragen/tao-of-programming.html) by Geoffrey James (free ebook)
 6. [The Timeless Way of Building](http://www.amazon.com/The-Timeless-Building-Christopher-Alexander/dp/0195024028) by Christopher Alexander
 7. [Things That Make Us Smart](http://www.jnd.org/books/things-that-make-us-smart-defending-human-attributes-in-the-age-of-the-machine.html) by Donald Norman
-8. 
+8. [The Tao Te Ching](https://a.co/d/2yycDpP) by Lao-tzu
+   
 
 ### Web Applications and Publishing
 1. [Getting Real](https://gettingreal.37signals.com/) by 37 Signals (free PDF])
@@ -159,6 +161,4 @@ I expect this list to be varied and to cover a wide range of things.
 1. [Gödel, Escher, Bach](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) by Douglas Hofstadter 
 3. [Surely You're Joking, Mr. Feynman!](http://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041) by Richard Feynman
 5. [The Design of Everyday Things](https://a.co/d/7je9D2y) by Donald Norman
-6. [Best Software Writing I](http://joelonsoftware.com/articles/BestSoftwareWriting.html) by Joel Spolsky 
-21. [The Tao Te Ching](https://a.co/d/2yycDpP) by Lao-tzu 
 24. [Writing Secure Code (2nd Edition)](https://a.co/d/gUYZptk) by Michael Howard
