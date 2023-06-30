@@ -55,7 +55,6 @@ I expect this list to be varied and to cover a wide range of things.
 4. [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 5. [Practices of an Agile Developer](http://pragprog.com/book/pad/practices-of-an-agile-developer) by Venkat Subramaniam and Andy Hunt
 6. [The Practice of Programming](http://cm.bell-labs.com/cm/cs/tpop/) by Kernighan and Pike
-7. [Algorithms + Data Structures = Programs](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) by Niklaus Wirth (free PDF)
 8. [Writing Solid Code](http://c2.com/cgi/wiki?WritingSolidCode) by Steve Maguire
 9. [Agile Principles, Patterns, and Practices in C#](http://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258) by Robert C. Martin
 10. [No Bugs!](http://www.amazon.com/No-Bugs-Delivering-Error-Free/dp/0201608901) by David Thielen
@@ -150,7 +149,8 @@ I expect this list to be varied and to cover a wide range of things.
 4. [Modern Operating Systems](http://www.cs.vu.nl/~ast/books/mos2/) by Andrew S. Tanenbaum
 5. [Computer Systems - A Programmer's Perspective](http://csapp.cs.cmu.edu/) by Bryant and O'Hallaron
 6.  [Computability](http://www.amazon.com/Computability-Introduction-Recursive-Function-Theory/dp/0521294657) by N. J. Cutland
-7.  [CODE](http://www.charlespetzold.com/code/) by Charles Petzold  
+7.  [CODE](http://www.charlespetzold.com/code/) by Charles Petzold
+8.  [Algorithms + Data Structures = Programs](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) by Niklaus Wirth (free PDF)
 
 ### Philosophy
 1. [Computational Beauty of Nature](https://mitpress.mit.edu/9780262561273/the-computational-beauty-of-nature/) by Gary William Flake
