@@ -54,7 +54,7 @@ I expect this list to be varied and to cover a wide range of things.
 1. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) by Richard Bird
 2. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) by the Gang of Four
 3. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) by Martin Fowler
-4. [Programming Pearls]([http://www.cs.bell-labs.com/cm/cs/pearls/](https://a.co/d/aCcO9SH)) by Jon Bentley
+4. [Programming Pearls](https://a.co/d/aCcO9SH) by Jon Bentley
 5. [Working Effectively with Legacy Code](http://www.informit.com/store/working-effectively-with-legacy-code-9780131177055?aid=15d186bd-1678-45e9-8ad3-fe53713e811b) by Michael C. Feathers
 6. [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html) by Martin Fowler
 7. [Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert C. Martin
