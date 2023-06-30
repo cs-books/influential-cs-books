@@ -20,6 +20,7 @@ These are books considered most influential for programmers from this [StackOver
       * [Philosophy](#philosophy)
       * [Scheme](#scheme)     
       * [Software Project Management](#software-project-management)
+      * [Theories and Fundamentals of Computer Systems](#theories-and-fundamentals-of-computer-systems)
       * [UI/UX](#uiux)
       * [Web Applications and Publishing](#web-applications-and-publishing)
       * [Z: Singles/Uncategorized](#singlesuncategorized)
@@ -78,7 +79,25 @@ I expect this list to be varied and to cover a wide range of things.
 ### Driven Designs 
 1. [Test-Driven Development: By Example](http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) by Kent Beck (free PDF)
 2. [Domain Driven Designs](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
-
+-----------------
+### Experiance Transfer
+1. [Coders at Work](http://www.codersatwork.com/) by Peter Seibel
+2. [The Career Programmer: Guerilla Tactics for an Imperfect World](https://www.barnesandnoble.com/w/career-programmer-christopher-duncan/1100626061) by Christopher Duncan
+3. [Masterminds of Programming](http://www.amazon.com/Masterminds-Programming-Conversations-Creators-Languages/dp/0596515170) by Federico Biancuzzi
+4.  [Best Software Writing I](http://joelonsoftware.com/articles/BestSoftwareWriting.html) by Joel Spolsky
+-----------------
+### History and Culture
+1. [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/) by Eric S. Raymond
+2. [The Annotated Turing](http://www.theannotatedturing.com/) by Charles Petzold
+3. [Masters of Doom](http://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) by David Kushner
+4. [The Art of Deception](https://a.co/d/8OIJYBQ) by Kevin Mitnick
+5. [The Art of Intrusion](https://a.co/d/74NV0vW) by Kevin D. Mitnick, William L. Simon
+6. [The Soul of a New Machine](http://www.tracykidder.com/books/soul/) by Tracy Kidder
+7. [Hackers: Heroes of the Computer Revolution](http://www.gutenberg.org/ebooks/729) by  Steven Levy (free ebook)
+---------
+### JUnit 
+1. [JUnit in Action](http://www.manning.com/tahchiev/) by Petar Tahchiev
+--------
 ### Language/Environment Specific
 1. [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/) by Brian Kernighan and Dennis Ritchie
 2. [Computer Graphics: Principles and Practice in C (2nd Edition)](http://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0201848406) by Foley, Dam, Feiner, Hughes
@@ -96,62 +115,13 @@ I expect this list to be varied and to cover a wide range of things.
 14. [Smalltalk-80: The Language and its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf) by Adele Goldberg
 15. [Advanced Programming in the UNIX Environment](https://a.co/d/bQVYa5n) by W. Richard Stevens
 16. [Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp](https://github.com/norvig/paip-lisp) by Peter Norvig (free ebook)
- 
-
-### Software Project Management
-1. [The Mythical Man Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) by Fred Brooks
-2. [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) by Demarco and Lister
-3. [Software Estimation: Demystifying the Black Art]([http://www.stevemcconnell.com/est.htm)(https://www.oreilly.com/library/view/software-estimation-demystifying/0735605351/)) by Steve McConnel
-4. [The Deadline: A Novel About Project Management](http://tomdemarco.com/Books/deadline.html) by Tom DeMarco
-5. [Here Comes Everybody: The Power of Organizing Without Organizations](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/0143114948) by Clay Shirky
-
-### Scheme
-1. [The Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition) by Matthias Felleisen and Daniel P. Friedman
-2. [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer-second-edition) by Matthias Felleisen and Daniel P. Friedman
-3. [How To Solve It](https://a.co/d/1HmpVyc) by George Polya (free PDF)
-
-### History and Culture
-1. [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/) by Eric S. Raymond
-2. [The Annotated Turing](http://www.theannotatedturing.com/) by Charles Petzold
-3. [Masters of Doom](http://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) by David Kushner
-4. [The Art of Deception](https://a.co/d/8OIJYBQ) by Kevin Mitnick
-5. [The Art of Intrusion](https://a.co/d/74NV0vW) by Kevin D. Mitnick, William L. Simon
-6. [The Soul of a New Machine](http://www.tracykidder.com/books/soul/) by Tracy Kidder
-7. [Hackers: Heroes of the Computer Revolution](http://www.gutenberg.org/ebooks/729) by  Steven Levy (free ebook)
- 
- 
-
-
-
-### UI/UX
-1. [Don't Make Me Think](http://www.sensible.com/dmmt.html) by Steve Krug
- 
-
+ --------
 ### Personal Development
 1.  [Algorithms to Live By](https://brianchristian.org/algorithms-to-live-by/) by Brian Christian
 2.  [Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/press_releases/pragmatic-thinking-and-learning-refactor-your-wetware) by Andy Hunt
 3.  [Zen and the Art of Motorcycle Maintenance](http://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469) by Robert M. Pirsig
 4.  [The Passionate Programmer](http://pragprog.com/book/cfcar2/the-passionate-programmer) by Chad Fowler
-
-### Experiance Transfer
-1. [Coders at Work](http://www.codersatwork.com/) by Peter Seibel
-2. [The Career Programmer: Guerilla Tactics for an Imperfect World](https://www.barnesandnoble.com/w/career-programmer-christopher-duncan/1100626061) by Christopher Duncan
-3. [Masterminds of Programming](http://www.amazon.com/Masterminds-Programming-Conversations-Creators-Languages/dp/0596515170) by Federico Biancuzzi
-4.  [Best Software Writing I](http://joelonsoftware.com/articles/BestSoftwareWriting.html) by Joel Spolsky 
-
-### JUnit 
-1. [JUnit in Action](http://www.manning.com/tahchiev/) by Petar Tahchiev
- 
-
-### Theories and Fundamentals of Computer Systems
-1. [Compilers: Principles, Techniques and Tools](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811) by Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
-2. [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) by Karl Seguin (free PDF)
-4. [Modern Operating Systems](http://www.cs.vu.nl/~ast/books/mos2/) by Andrew S. Tanenbaum
-5. [Computer Systems - A Programmer's Perspective](http://csapp.cs.cmu.edu/) by Bryant and O'Hallaron
-6.  [Computability](http://www.amazon.com/Computability-Introduction-Recursive-Function-Theory/dp/0521294657) by N. J. Cutland
-7.  [CODE](http://www.charlespetzold.com/code/) by Charles Petzold
-8.  [Algorithms + Data Structures = Programs](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) by Niklaus Wirth (free PDF)
-
+--------
 ### Philosophy
 1. [Computational Beauty of Nature](https://mitpress.mit.edu/9780262561273/the-computational-beauty-of-nature/) by Gary William Flake
 2. [Hackers and Painters: Big Ideas from the Computer Age](http://www.paulgraham.com/hackpaint.html) by Paul Graham
@@ -161,11 +131,37 @@ I expect this list to be varied and to cover a wide range of things.
 6. [The Timeless Way of Building](http://www.amazon.com/The-Timeless-Building-Christopher-Alexander/dp/0195024028) by Christopher Alexander
 7. [Things That Make Us Smart](http://www.jnd.org/books/things-that-make-us-smart-defending-human-attributes-in-the-age-of-the-machine.html) by Donald Norman
 8. [The Tao Te Ching](https://a.co/d/2yycDpP) by Lao-tzu
-   
+--------
+### Scheme
+1. [The Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition) by Matthias Felleisen and Daniel P. Friedman
+2. [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer-second-edition) by Matthias Felleisen and Daniel P. Friedman
+3. [How To Solve It](https://a.co/d/1HmpVyc) by George Polya (free PDF)
+--------
+### Software Project Management
+1. [The Mythical Man Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) by Fred Brooks
+2. [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) by Demarco and Lister
+3. [Software Estimation: Demystifying the Black Art]([http://www.stevemcconnell.com/est.htm)(https://www.oreilly.com/library/view/software-estimation-demystifying/0735605351/)) by Steve McConnel
+4. [The Deadline: A Novel About Project Management](http://tomdemarco.com/Books/deadline.html) by Tom DeMarco
+5. [Here Comes Everybody: The Power of Organizing Without Organizations](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/0143114948) by Clay Shirky
+--------
+### UI/UX
+1. [Don't Make Me Think](http://www.sensible.com/dmmt.html) by Steve Krug
+--------
+
+### Theories and Fundamentals of Computer Systems
+1. [Compilers: Principles, Techniques and Tools](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811) by Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
+2. [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) by Karl Seguin (free PDF)
+4. [Modern Operating Systems](http://www.cs.vu.nl/~ast/books/mos2/) by Andrew S. Tanenbaum
+5. [Computer Systems - A Programmer's Perspective](http://csapp.cs.cmu.edu/) by Bryant and O'Hallaron
+6.  [Computability](http://www.amazon.com/Computability-Introduction-Recursive-Function-Theory/dp/0521294657) by N. J. Cutland
+7.  [CODE](http://www.charlespetzold.com/code/) by Charles Petzold
+8.  [Algorithms + Data Structures = Programs](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) by Niklaus Wirth (free PDF)
+--------
 
 ### Web Applications and Publishing
 1. [Getting Real](https://gettingreal.37signals.com/) by 37 Signals (free PDF])
 2.  [Philip and Alex's Guide to Web Publishing](http://philip.greenspun.com/panda/) (free ebook)
+--------
 
 
 ### Singles/Uncategorized
